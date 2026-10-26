@@ -1,0 +1,5 @@
+Requested URL,Status,Response Length,Content-Type,Category,Observation,Review Status
+http://127.0.0.1:8765/,200,90,text/html; charset=utf-8,Security header,"X-Content-Type-Options is not present, Content-Security-Policy is not present",Configuration review
+http://127.0.0.1:8765/redirect,302,0,,Security header,"X-Content-Type-Options is not present, Content-Security-Policy is not present",Configuration review
+http://127.0.0.1:8765/health,200,2,text/plain,Security header,"X-Content-Type-Options is not present, Content-Security-Policy is not present",Configuration review
+http://127.0.0.1:8765/nothing,404,9,text/plain,Security header,"X-Content-Type-Options is not present, Content-Security-Policy is not present",Configuration review
